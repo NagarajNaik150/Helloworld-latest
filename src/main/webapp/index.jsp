@@ -6,7 +6,7 @@
 <title> Welcome  to aws   </title>
 <style>
   body {
-    background-color: blue;
+    background-color: purple;
   }
 </style>
 </head>
